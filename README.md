@@ -1,3 +1,3 @@
 # Small ETL Pipeline for Sample Data Transformations 📊
 
-I usually build small ETL pipelines to perform simple transformations on sample data.
+I usually build small ETL pipeline to perform simple transformations on sample data.
